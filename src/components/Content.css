@@ -1,17 +1,16 @@
-.content {
-}
 .content__inner {
     margin: 2rem 0 2rem 0;
     display: flex;
 }
 .content__img {
+    border-radius: 15px;
     height: 300px;
 }
 .content__info {
     padding: 0 0 0 2rem;
 }
 .info__locations {
-    padding: 3rem 0 0 0;
+    padding: 2rem 0 0 0;
     display: flex;
     align-items: center;
 }
@@ -38,17 +37,11 @@
     font-size: 1em;
     padding: 2rem 0 0 0;
 }
-.info__date-startDate {
-}
-.span-custom {
-}
-.info__date-endDate {
-}
 .info__description {
     padding: 1rem 0 0 0;
     line-height: 1.5;
+    width: 55%;
 }
-
 .hr--custom {
     border-top: 1px solid #fff;
 }
