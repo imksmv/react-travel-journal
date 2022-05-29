@@ -9,7 +9,7 @@ export default [
         description:
             "Dublin, capital of the Republic of Ireland, is on Ireland's east coast at the mouth of the River Liffey.",
         imageUrl:
-            "https://images.unsplash.com/photo-1564959130747-897fb406b9af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80",
+            "https://images.unsplash.com/photo-1630784032313-f780ae5532c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
     },
     {
         id: 2,
@@ -21,7 +21,7 @@ export default [
         description:
             "Warsaw, officially the Capital City of Warsaw, is the capital and largest city of Poland.",
         imageUrl:
-            "https://images.unsplash.com/photo-1578925193365-e69a2b0e4c73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1588&q=80",
+            "https://images.unsplash.com/photo-1573157268772-519f309dc212?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
     },
     {
         id: 3,
