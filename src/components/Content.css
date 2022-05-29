@@ -1,0 +1,54 @@
+.content {
+}
+.content__inner {
+    margin: 2rem 0 2rem 0;
+    display: flex;
+}
+.content__img {
+    height: 300px;
+}
+.content__info {
+    padding: 0 0 0 2rem;
+}
+.info__locations {
+    padding: 3rem 0 0 0;
+    display: flex;
+    align-items: center;
+}
+.info__location-icon {
+    height: 1rem;
+}
+.info__country {
+    padding: 0 1.4rem 0 0.3rem;
+    font-size: 1.3em;
+}
+.info__googleMapsUrl {
+    color: #959595;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+.info__title {
+    font-size: 3em;
+    font-weight: 700;
+}
+.info__date {
+    display: flex;
+    gap: 0.5rem;
+    font-weight: 700;
+    font-size: 1em;
+    padding: 2rem 0 0 0;
+}
+.info__date-startDate {
+}
+.span-custom {
+}
+.info__date-endDate {
+}
+.info__description {
+    padding: 1rem 0 0 0;
+    line-height: 1.5;
+}
+
+.hr--custom {
+    border-top: 1px solid #fff;
+}
